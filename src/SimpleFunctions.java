@@ -10,7 +10,7 @@ public class SimpleFunctions {
     // You can create your functions here.
     //greet() method should simply output "Hello World!".
     static void greet() {
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
     }
     // sum(x, y) method should receive two double values and return their sum.
     static double sum(double x, double y) {
